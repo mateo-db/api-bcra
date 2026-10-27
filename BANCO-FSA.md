@@ -24,7 +24,7 @@
 - Fecha de Informacion: 2026-08-31
   - Fecha de actualización de los datos provistos por la entidad dentro del Régimen de Transparencia.
 
-## Préstamo Personal Con Acreditación de Haberes a Monotributistas
+## Préstamo Personal Sin Acreditación de Haberes a Monotributistas
 
 - Monto Minimo Otorgable: 1,
 - Denominación: "Pesos",
