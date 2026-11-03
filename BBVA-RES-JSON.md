@@ -48,4 +48,4 @@
             "nombreCorto": "PRESTAMO PERSONAL",
             "territorioValidez": "0",
             "masInformacion": "SI TRANSCURRIERON AL MENOS DESDE SU OTORGAMIENTO 180 DIAS O PORC DEL PLAZO TOTAL ORIGINAL DE AMBAS CONDICIONES LA MAYOR SIN CARGO"
-        }
+        },

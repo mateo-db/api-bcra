@@ -1,42 +1,79 @@
 ## Préstamo Personal Con Acreditación de Haberes a Personas en Relación de Dependencia
 
-- Denominación: Pesos
-  - Tipo de Moneda del Préstamo
-- Monto Máximo Otorgable: 8.000.000
-  - Monto máximo otorgable del préstamo.
-- Monto Mínimo Otorgable: 1
-  - Monto mínimo otorgable del préstamo.
-- Plazo Máximo Otorgable (Meses): 36
-  - Plazo máximo otorgable en meses
-- Ingreso Mínimo Mensual: 1.000
-  - Ingreso mínimo mensual solicitado.
-- Antiguedad Laboral Mínima (Meses): 3
-- Relación Cuota/Ingreso (%): 15.00
-- Cargo Máximo Cancelación Anticipada: 3.00
-  - Cargo máximo por cancelación anticipada: número (0 – 99%).
-- TEA Máxima: 99.38
-- Tipo Tasa: Fija
-- CFT Máximo: 129.38
-  - Costo financiero efectivo total máximo.
-- Cuota Inicial: 79.315
-  - Cuota inicial a plazo máximo cada $10.000
-- Nombre Completo del Préstamo: "PRESTAMO PERSONAL CON ACREDITACION DE HABERES - PRESENCIAL"
-- Fecha de Informacion: 2026-08-31
-  - Fecha de actualización de los datos provistos por la entidad dentro del Régimen de Transparencia.
+### Presencial
+
+        {
+            "montoMinimoOtorgable": 1,
+            "denominacion": "Pesos",
+            "montoMaximoOtorgable": 8000000,
+            "plazoMaximoOtorgable": 36,
+            "ingresoMinimoMensual": 1000,
+            "antiguedadLaboralMinimaMeses": 3,
+            "edadMaximaSolicitada": 86,
+            "relacionCuotaIngreso": 15.00,
+            "beneficiario": "Personas humanas en relación de dependencia",
+            "cargoMaximoCancelacionAnticipada": 3.00,
+            "tasaEfectivaAnualMaxima": 99.38,
+            "tipoTasa": "Fija",
+            "costoFinancieroEfectivoTotalMaximo": 129.36,
+            "cuotaInicial": 79315.00,
+            "codigoEntidad": 315,
+            "descripcionEntidad": "BANCO DE FORMOSA S.A.",
+            "fechaInformacion": "2026-08-31",
+            "nombreCompleto": "PRESTAMO PERSONAL CON ACREDITACION DE HABERES - PRESENCIAL",
+            "nombreCorto": "PRESTAMO PERSONAL PRES",
+            "territorioValidez": "0",
+            "masInformacion": "PRESTAMOS SOLICITADOS DE FORMA PRESENCIAL"
+        },
+
+### Por HomeBanking (App del Banco)
+
+        {
+            "montoMinimoOtorgable": 1,
+            "denominacion": "Pesos",
+            "montoMaximoOtorgable": 8000000,
+            "plazoMaximoOtorgable": 36,
+            "ingresoMinimoMensual": 1000,
+            "antiguedadLaboralMinimaMeses": 3,
+            "edadMaximaSolicitada": 86,
+            "relacionCuotaIngreso": 15.00,
+            "beneficiario": "Personas humanas en relación de dependencia",
+            "cargoMaximoCancelacionAnticipada": 3.00,
+            "tasaEfectivaAnualMaxima": 68.00,
+            "tipoTasa": "Fija",
+            "costoFinancieroEfectivoTotalMaximo": 86.82,
+            "cuotaInicial": 64672.00,
+            "codigoEntidad": 315,
+            "descripcionEntidad": "BANCO DE FORMOSA S.A.",
+            "fechaInformacion": "2026-08-31",
+            "nombreCompleto": "PRESTAMO PERSONAL CON ACREDITACION DE HABERES - HB",
+            "nombreCorto": "PRESTAMO PERSONAL HB",
+            "territorioValidez": "0",
+            "masInformacion": "PRESTAMOS SOLICITADOS POR HOME BANKING"
+        },
 
 ## Préstamo Personal Sin Acreditación de Haberes a Monotributistas
 
-- Monto Minimo Otorgable: 1,
-- Denominación: "Pesos",
-- Monto Máximo Otorgable: 8000000,
-- Plazo Máximo Otorgable: 36,
-- Ingreso Mínimo Mensual: 1000,
-- Antigüedad Laboral (Meses): 3,
-- Relación Cuota/Ingreso (%): 15,
-- Cargo Máximo por Cancelación Anticipada: 3,
-- TEA Máxima: 114.99,
-- Tipo Tasa: Fija,
-- CFT Máximo: 150.98,
-- Cuota Inicial: 86092,
-- Fecha de Información: "2026-08-31",
-- Nombre Completo del Préstamo: "PRESTAMO PERSONAL SIN ACREDITACION DE HABERES",
+        {
+            "montoMinimoOtorgable": 1,
+            "denominacion": "Pesos",
+            "montoMaximoOtorgable": 8000000,
+            "plazoMaximoOtorgable": 36,
+            "ingresoMinimoMensual": 1000,
+            "antiguedadLaboralMinimaMeses": 3,
+            "edadMaximaSolicitada": 86,
+            "relacionCuotaIngreso": 15.00,
+            "beneficiario": "Personas humanas Monotributistas",
+            "cargoMaximoCancelacionAnticipada": 3.00,
+            "tasaEfectivaAnualMaxima": 114.99,
+            "tipoTasa": "Fija",
+            "costoFinancieroEfectivoTotalMaximo": 150.98,
+            "cuotaInicial": 86092.00,
+            "codigoEntidad": 315,
+            "descripcionEntidad": "BANCO DE FORMOSA S.A.",
+            "fechaInformacion": "2026-08-31",
+            "nombreCompleto": "PRESTAMO PERSONAL SIN ACREDITACION DE HABERES",
+            "nombreCorto": "PP SIN ACREDITACION  HAB",
+            "territorioValidez": "0",
+            "masInformacion": null
+        },
