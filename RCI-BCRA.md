@@ -54,3 +54,5 @@ _Fuentes: "¿Cómo sé si califico para un préstamo personal?", Banco Galicia._
 - Las entidades financieras utilizan este indicador para conocer nuestra situación financiera, y saber qué riesgos hay de que paguemos a tiempo las cuotas. Cuánto más baja sea nuestra relación cuota/ingreso, más altas es la probabilidad de que nos aprueben un préstamo.
 
 - Generalmente, el máximo de relación cuota/ingreso para aprobar un préstamo es de 25%-30%. Una cifra superior es considerada de riesgo. Este tope varía según la entidad financiera y tipo de préstamo (hasta un 50%, que es el límite establecido por el BCRA para el RCI de un préstamo).
+
+_Fuente: "¿Cómo construir la relación cuota/ ingreso antes de solicitar un préstamo?", Fintech Mins_ https://mins.com.ar/relacion-cuota-ingreso-prestamos/
